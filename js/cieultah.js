@@ -24,7 +24,7 @@ function mediaBtn() {
     document.getElementById('media-button').innerHTML = icon;
 
 }
-/*
+
 var b1 = 1;
 var b2 = 2;
 function swap1() {
@@ -43,4 +43,3 @@ function swap2() {
         b2++;
     }
 }
-*/

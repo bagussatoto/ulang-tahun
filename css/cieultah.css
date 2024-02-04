@@ -118,7 +118,7 @@ body {
     transform: translateX(-50%);
   }
 }
-/*
+
 .message-box-2 {
   animation: letter2-out 4s ease 1s forwards;
   -webkit-animation-play-state: paused;
