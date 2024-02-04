@@ -1,6 +1,6 @@
 function openLetter() {
     document.querySelector('.message-box-1').style.webkitAnimationPlayState = 'running';
-    //document.querySelector('.message-box-2').style.webkitAnimationPlayState = 'running';
+    document.querySelector('.message-box-2').style.webkitAnimationPlayState = 'running';
     document.querySelector('.arrow-down-closed').style.visibility = 'hidden';
     document.querySelector('.arrow-up-open').style.visibility = 'visible';
     document.querySelector('.media-btn').style.visibility = 'visible';

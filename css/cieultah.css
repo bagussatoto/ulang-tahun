@@ -123,6 +123,7 @@ body {
   animation: letter2-out 4s ease 1s forwards;
   -webkit-animation-play-state: paused;
 }
+
 @keyframes letter2-out {
   0% {
     visibility: hidden;
@@ -141,7 +142,7 @@ body {
     height: 125px;
   }
 }
-*/
+
 .message-box-greeting {
   font-family: "Dancing Script", cursive;
   margin-top: 0;
@@ -159,5 +160,4 @@ body {
 
 # sourceMappingURL=cieultah.css.map 
 # sourceMappingURL=cieultah.scss.map 
-
 # sourceMappingURL=cieultah.css.map 
