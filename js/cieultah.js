@@ -34,12 +34,12 @@ function swap1() {
         b1++;
         b2++;
     }
-// }
-// function swap2() {
-//     if (b1 % 2 == 0) {
-//         document.querySelector('.message-box-2').style.zIndex = "10";
-//         document.querySelector('.message-box-1').style.zIndex = "50";
-//         b1++;
-//         b2++;
-//     }
-// }
+}
+function swap2() {
+    if (b1 % 2 == 0) {
+        document.querySelector('.message-box-2').style.zIndex = "10";
+        document.querySelector('.message-box-1').style.zIndex = "50";
+        b1++;
+        b2++;
+    }
+}
